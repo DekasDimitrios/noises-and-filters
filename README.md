@@ -3,7 +3,7 @@ Playing with image filtering in python
 
 ## About
 
-The code in the current repository was developed as a part of the "Object-Oriented Programming" undergraduate course that took place during the 3rd semester at the School of Informatics of the Aristotle University of Thessaloniki. It is an attempt of developing a simple card memorizing game with Java using Swing.
+The code in the current repository was developed as a part of the "DigitalIimage Processing" undergraduate course that took place during the 7th semester at the School of Informatics of the Aristotle University of Thessaloniki. It is an attempt of developing a set of common noises and filters used in a variety of ways while manipulating digital images.
 
 ## Dependencies
 
