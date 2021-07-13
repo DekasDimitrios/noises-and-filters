@@ -9,8 +9,6 @@
 
 import numpy as np
 import cv2
-# import scipy.signal as sps
-# from skimage.util import random_noise
 
 
 # Function used to display an image and wait for key input to continue.
